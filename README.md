@@ -19,6 +19,15 @@ This will work with a standard firmware.
 
 There is also an [extended instruction on how to set up your Fritz!Box as an AdBlocker](http://blog.3960.org/post/123040268295/fritz-box-als-adblocker) (German).
 
+
+List of all Ad Networks
+-----------
+https://hg.adblockplus.org/easylistgermany/file/tip/easylistgermany/easylistgermany_adservers.txt
+
+To Do
+-----------
+add curl command with regex to grep web URLs from link 
+
 Know issues
 -----------
 
